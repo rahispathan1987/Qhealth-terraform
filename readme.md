@@ -60,3 +60,5 @@ Terraform apply
 # Check and Browse URL:
 
 Terraform apply will print IP in the last section copy this IP and Browse URL with IP.
+
+URL: http://publicip/febonacci?number=100
