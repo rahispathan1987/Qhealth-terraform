@@ -51,7 +51,7 @@ Terraform apply
 ###How to Install and Run the Project:
 
 1.Install Terraform in local system or Laptop.
-2.Configure Ec2-instace Key pairs in AWS console in region us-east-2.
+2.Configure Ec2-instace Key pairs in AWS console in region us-east-1
 3.Configure and Mention Key pairs name in Terraform var.tf files.
 4.Configure access_key and secret_key in Qhealth-Terraform file in Provider section.
 5.Check all Terraform code with Terraform validate
