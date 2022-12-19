@@ -2,7 +2,7 @@
 
 #Project Description:
 
-As per mentioned just run one trigger to implement the whole solution.
+Just run one trigger to implement the whole solution.
 
 We have Configured Terraform to deploy infrastructure and Ansible for the configuration management implementation.
 
